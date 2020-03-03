@@ -16,4 +16,4 @@ It's formed by three oscillators modulating each other and generates similar sou
 ##### MODULATOR
 The DUAL RING main frequency and the CHAOS oscillator pitches can be automatically modulated using the low frequency oscillators implemented in the MODULATOR sections. The WAVEFORM knob is used to select the LFO shape. Six waveforms are available: Random ramp, triangle, sawtooth, reverse sawtooth, square and random pulse. In random ramp mode the oscillator pitches are randomly fluctuating while in random pulse the modulation is by a random amount with a random pulse width. The RATE knob sets the modulation speed, when set in counter clockwise position the modulation is disabled.
 ##### MIXER
-The MIXER allows volume level adjustments of the three generators. PROTEAN has three output connections. Using the central output jack you obtain the summed output of the generators. Inserting any of the other jacks removes the relative generator voice from the summed output, sending it out separately.
+The MIXER allows volume level adjustments of the three generators. 
