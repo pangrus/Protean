@@ -1,5 +1,6 @@
 # Protean - Motion Texture Source
 ![Protean](Images/Protean.jpg)
+
 In this repository you'll find the schematic and the gerber files to build the PROTEAN. It's a compact device that incorporates three independent sound generators for the production of a wide variety of sonic environments with a ever changing expressive vitality.
 All sound parameters can be modified through direct manipulation of the knobs allowing a direct, fast and intuitive performance.
 The sound generators have complementary timbral characteristic covering all the frequency spectrum and may also be modulated by the two low frequency oscillators implemented in the circuit, generating hypnotic sounds which evolve over time.
